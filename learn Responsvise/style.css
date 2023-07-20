@@ -407,10 +407,11 @@ footer span:hover {
   .btn_content{
     position: relative;
     left: 150px;
+    padding: 25px 15px;
   }
   .links{
     position: relative;
-    top: 34rem;
+    top: 490px;
   }
   
 }
