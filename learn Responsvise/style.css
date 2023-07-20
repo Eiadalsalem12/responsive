@@ -404,6 +404,10 @@ footer span:hover {
     position: relative;
     left: 150px;
   }
+  .links{
+    position: relative;
+    top: 34rem;
+  }
   
 }
 @media screen and (max-width:368px){
